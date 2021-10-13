@@ -5,6 +5,6 @@
 ¡Bienvenido a mi perfil de GitHub!
 Siéntete libre de utilizar los repositorios que he creado (e iré creando). Espero te sean de utilidad ✨.
 
-- 🔭 Soy estudiante de ingeniería civil de la Escuela Politécnica Nacional.
+- 🦉 Soy estudiante de ingeniería civil de la Escuela Politécnica Nacional.
 - 📚 Actualmente estoy aprendiendo MATLAB, Python y R para implementar en el aprendizaje automático (o machine learning 💁‍♂️), además de los usos que le pueda dar en la carrera.
 - 🔢 También me gustan los métodos numéricos, pero esos repositorios tomarán su tiempo.
