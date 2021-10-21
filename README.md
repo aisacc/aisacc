@@ -6,6 +6,6 @@
 Siéntete libre de utilizar los repositorios que he creado (e iré creando). Espero te sean de utilidad ✨.
 
 - 🦉 Soy estudiante de ingeniería civil de la Escuela Politécnica Nacional.
-- 📚 Actualmente estoy aprendiendo MATLAB, Python y R para implementar en el aprendizaje automático (o machine learning 💁‍♂️), además de los usos que le pueda dar en la carrera.
+- 📚 Actualmente estoy aprendiendo MATLAB y Python para implementar en el aprendizaje automático (o machine learning 💁‍♂️), además de los usos que le pueda dar en la carrera.
 - 👨‍💻 Además, se vienen repositorios de Wolfram Mathematica y LaTeX, ¿no está demás completar el paquete de lenguajes, o sí?
 - 🔢 También me gustan los métodos numéricos, pero esos repositorios tomarán su tiempo.
