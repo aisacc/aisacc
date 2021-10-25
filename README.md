@@ -7,5 +7,5 @@ Siéntete libre de utilizar los repositorios que he creado (e iré creando). Esp
 
 - 🦉 Soy estudiante de ingeniería civil de la Escuela Politécnica Nacional.
 - 📚 El lenguaje de programación que domino bastante es **MATLAB**.
-- 👨‍💻 Sin embargo, pienso añadir dos lenguajes más a la cartelera: **LaTeX** y **Mathematica**. **LaTeX** por la generación de informes técnicos de excelencia y **Mathematica** debido a su utilidad al momento de aprender matemáticas.
+- 👨‍💻 Sin embargo, pienso añadir dos lenguajes más a mi lista: **LaTeX** y **Mathematica**. **LaTeX** por la generación de informes técnicos de excelencia y **Mathematica** debido a su utilidad al momento de aprender matemáticas.
 - 🔢 Probablemente también añada repositorios de **métodos numéricos** próximamente. Estos serán utilizando **MATLAB**, claro.
