@@ -6,6 +6,6 @@
 Siéntete libre de utilizar los repositorios que he creado (e iré creando). Espero te sean de utilidad ✨.
 
 - 🦉 Soy estudiante de ingeniería civil de la Escuela Politécnica Nacional.
-- 📚 Actualmente estoy aprendiendo MATLAB y Python para implementar en el aprendizaje automático (o machine learning 💁‍♂️), además de los usos que les pueda dar en la carrera.
-- 👨‍💻 Además, se vienen repositorios de Wolfram Mathematica y LaTeX, ¿no está demás completar el paquete de lenguajes, o sí?
-- 🔢 También me gustan los métodos numéricos, pero esos repositorios tomarán su tiempo.
+- 📚 El lenguaje de programación que domino bastante es MATLAB.
+- 👨‍💻 Sin embargo, pienso añadir dos lenguajes más a la cartelera: LaTeX y Mathematica. LaTeX por la generación de informes técnicos de excelencia y Mathematica debido a su utilidad al momento de aprender matemáticas.
+- 🔢 Probablemente también añada repositorios de métodos numéricos próximamente. Estos serán utilizando MATLAB, claro.
