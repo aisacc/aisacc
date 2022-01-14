@@ -6,5 +6,5 @@
 Siéntete libre de utilizar los repositorios que he creado (e iré creando). Espero te sean de utilidad ✨.
 
 - 🦉 Soy estudiante de ingeniería civil de la Escuela Politécnica Nacional.
-- 📚 El lenguaje de programación que domino bastante es **MATLAB**, no obstante, a otros lenguajes como **Python**, **R** o **SageMath** también están en mi biblioteca.
+- 📚 El lenguaje de programación que domino bastante es **MATLAB**, no obstante, otros lenguajes como **Python**, **R** o **SageMath** también están en mi biblioteca.
 - 🐤 Ah, y me gustan las caricaturas.
