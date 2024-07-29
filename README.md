@@ -1,7 +1,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGKAREBRwaA9Ho0bKDcRnZQ)](https://www.youtube.com/@aisacc-me)
 [![GitHub followers](https://img.shields.io/github/followers/aisacc)](https://github.com/aisacc)
 
-# Tú que estás aquí...
+# Ya que estás aquí...
 
 Soy Isacc (aunque me suelen llamar *Aisacc* ._.) y me gusta aprender además de enseñar, lo que me ha llevado a buscar siempre la mejor forma de aprender y enseñar. Es por eso que nacen mis ***cursos*** y ***aplicaciones*** (la mayoría con un enfoque a ingeniería civil) en los que me veo motivado a aprender para enseñar lo aprendido. **¿Qué mejor motivación que esa?**
 
