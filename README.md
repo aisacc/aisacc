@@ -6,7 +6,7 @@
 Soy Isacc (aunque me suelen llamar *Aisacc* ._.) y me gusta aprender además de enseñar, lo que me ha llevado a buscar siempre la mejor forma de aprender y enseñar. Es por eso que nacen mis ***cursos*** y ***aplicaciones*** (la mayoría con un enfoque a ingeniería civil) en los que me veo motivado a aprender para enseñar lo aprendido. **¿Qué mejor motivación que esa?**
 
 *Utiliza todo lo que encuentres aquí sin problema y sácale el máximo provecho.* Y si alguna aplicación no entiendes y quieres modificarla a tu necesidad, tienes 2 opciones:
-1. Contáctame e intentaré ayudarte (siempre y cuando tengas una buena base de la herramienta que se utiliza. **Yo no hago tarea de nadie**).
+1. Contáctame e intentaré ayudarte (siempre y cuando tengas una buena base de la herramienta que se utiliza).
 2. Toma el curso donde enseño a usar la herramienta con la que se desarrolló la aplicación (en estos cursos explico todo lo que sé paso a paso).
 
 Aquí te dejo algunas cosas que domino y mis redes. Es todo. Adiós.
